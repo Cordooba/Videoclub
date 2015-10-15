@@ -40,6 +40,12 @@
 				<button class="btn btn-info">Identificar</button>
 			</div>		
 		</form>
+		<br>
+		<div id="a" class="container">
+			<a href="register.html.php">Registrarse</a>
+			<br>
+			<a href="forgotpsw.html.php">¿Olvidó su contraseña?</a>
+		</div>
 	</div>	
 </body>
 </html>
